@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef7099a20a5644fc81f361b0cfa0c23, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Chi saluta i suoi vicini di casa dicendo "salve"?
+  question: "Dove si trova la Statua della Libert\xE0"
   answers:
-  - Serxho
-  - Imed
-  - Checco
-  - Gery
-  correctAnswerIndex: 2
+  - Europa
+  - Nord America
+  - Sud America
+  - Asia
+  correctAnswerIndex: 1

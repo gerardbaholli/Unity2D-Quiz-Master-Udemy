@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef7099a20a5644fc81f361b0cfa0c23, type: 3}
   m_Name: Question 1
   m_EditorClassIdentifier: 
-  question: "Chi \xE8 pi\xF9 spia?"
+  question: La capitale della Francia
   answers:
-  - Gery
-  - Checco
-  - Imed
-  - Serxho
-  correctAnswerIndex: 1
+  - Londra
+  - Roma
+  - Parigi
+  - Madrid
+  correctAnswerIndex: 2

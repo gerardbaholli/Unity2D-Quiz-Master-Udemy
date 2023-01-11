@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef7099a20a5644fc81f361b0cfa0c23, type: 3}
   m_Name: Question 4
   m_EditorClassIdentifier: 
-  question: Chi non paga mai l'affitto?
+  question: "Quando \xE8 finita la Seconda Guerra Mondiale?"
   answers:
-  - Imed
-  - Checco
-  - Gery
-  - Serxho
-  correctAnswerIndex: 2
+  - 1945
+  - 1943
+  - 1938
+  - 1948
+  correctAnswerIndex: 0

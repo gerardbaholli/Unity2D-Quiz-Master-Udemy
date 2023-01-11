@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef7099a20a5644fc81f361b0cfa0c23, type: 3}
   m_Name: Question 3
   m_EditorClassIdentifier: 
-  question: "Chi \xE8 pi\xF9 scarso a calcio?"
+  question: Quanti Stati ci sono negli Stati Uniti?
   answers:
-  - Serxho
-  - Gery
-  - Imed
-  - Checco
-  correctAnswerIndex: 3
+  - 30
+  - 40
+  - 50
+  - 60
+  correctAnswerIndex: 2
